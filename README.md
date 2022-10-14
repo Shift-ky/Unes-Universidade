@@ -1,2 +1,2 @@
 # Unes-Universidade
-Site simples criado estruturado em tabelas.
+Site simples estruturado em tabelas.
