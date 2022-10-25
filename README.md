@@ -2,7 +2,7 @@
 # Universite Unes
 A simple HTML5 and table-structured website.
 
-![foto web](https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/Captura%20de%20tela_20221023_154128.png?raw=true)
+![image](https://user-images.githubusercontent.com/103571578/197763246-e6633500-62a2-4b67-a0ff-74f2b49b2c74.png))
 
 ## Technology
 * HTML5
